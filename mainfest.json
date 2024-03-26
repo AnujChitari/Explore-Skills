@@ -1,21 +1,22 @@
-{ 
-"short_name": "Xploreskill", 
-"name": "Xploreskill Website", 
-"icons": [ 
-{ 
-"src": "library.png", 
-"type": "image/png", 
-"sizes": "192x192", 
-"purpose": "maskable" 
-}, 
-{ 
-"src": "library.png", 
-"type": "image/png",
-"sizes": "512x512" 
-} 
-], 
-"start_url": "https://explore-skills.vercel.app/", 
-"display": "standalone", 
-"theme_color": "#000000", 
-"background_color": "#ffffff" 
-} 
+{
+    "short_name": "Xploreskill",
+    "name": "Xploreskill Website",
+    "icons": [
+      {
+        "src": "library.png",
+        "type": "image/png",
+        "sizes": "192x192",
+        "purpose": "maskable"
+      },
+      {
+        "src": "library.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "https://explore-skills.vercel.app/",
+    "display": "standalone",
+    "theme_color": "#000000",
+    "background_color": "#ffffff"
+  }
+  
