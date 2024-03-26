@@ -3,13 +3,13 @@
 "name": "Xploreskill Website", 
 "icons": [ 
 { 
-"src": "logo192.png", 
+"src": "library.png", 
 "type": "image/png", 
 "sizes": "192x192", 
 "purpose": "maskable" 
 }, 
 { 
-"src": "logo512.png", 
+"src": "library.png", 
 "type": "image/png",
 "sizes": "512x512" 
 } 
